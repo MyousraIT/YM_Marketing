@@ -98,9 +98,9 @@ h1,h2,h3{font-family:var(--f-display);font-weight:800;line-height:1.02;letter-sp
 .btn-primary:hover{transform:translateY(-2px);background:var(--brand-deep)}
 .btn-ghost{background:transparent;color:var(--ink);border-color:var(--line-strong)}
 .btn-ghost:hover{border-color:var(--brand);color:var(--brand);transform:translateY(-2px)}
-.btn-light{background:#fff;color:var(--brand)}
+
 .btn-light:hover{transform:translateY(-2px);box-shadow:0 18px 40px -18px rgba(0,0,0,.5)}
-.btn-onbrand-ghost{background:transparent;color:#fff;border-color:rgba(255,255,255,.35)}
+
 .btn-onbrand-ghost:hover{background:rgba(255,255,255,.1);transform:translateY(-2px)}
 
 /* =================== NAV =================== */
